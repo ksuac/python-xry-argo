@@ -6,7 +6,7 @@ export NEZHA_KEY=${NEZHA_KEY:-'ZiWxaOnvkfoZGVrBhJ'}
 export ARGO_DOMAIN=${ARGO_DOMAIN:-''}  
 export ARGO_AUTH=${ARGO_AUTH:-''}
 export CFIP=${CFIP:-'sam.hk01.ydns.eu'}
-export NAME=${NAME:-'Titanium'}
+export NAME=${NAME:-'ABC'}
 export FILE_PATH=${FILE_PATH:-'./temp'}
 export ARGO_PORT=${ARGO_PORT:-'8001'} 
 
