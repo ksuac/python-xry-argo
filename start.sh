@@ -2,12 +2,12 @@
 export UUID=${UUID:-'fc44fe6a-f083-4591-9c03-f8d61dc3907f'}
 export NEZHA_SERVER=${NEZHA_SERVER:-'nz.f4i.cn'}
 export NEZHA_PORT=${NEZHA_PORT:-'5555'}  
-export NEZHA_KEY=${NEZHA_KEY:-'wOij9z8Aj2GCrK3UFl'}
+export NEZHA_KEY=${NEZHA_KEY:-'ZiWxaOnvkfoZGVrBhJ'}
 export ARGO_DOMAIN=${ARGO_DOMAIN:-''}  
 export ARGO_AUTH=${ARGO_AUTH:-''}
 export CFIP=${CFIP:-'sam.hk01.ydns.eu'}
 export NAME=${NAME:-'Titanium'}
-export FILE_PATH=${FILE_PATH:-'./world'}
+export FILE_PATH=${FILE_PATH:-'./temp'}
 export ARGO_PORT=${ARGO_PORT:-'8001'} 
 
 if [ ! -d "${FILE_PATH}" ]; then
